@@ -1,0 +1,7 @@
+# Données (à télécharger depuis Kaggle, voir README)
+*.csv
+# Environnement virtuel et fichiers d'éditeur
+.venv/
+.qodo/
+__pycache__/
+catboost_info/
